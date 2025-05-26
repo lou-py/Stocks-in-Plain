@@ -23,7 +23,6 @@ Reading price data into pandas and doing rolling calculations.
 Basic sentiment scoring with VADER.
 Loading a tiny open‑source LLM and creating a prompt.
 Building a fast UI with Streamlit (columns, metrics, progress bar).
-Writing a clean README (you’re reading it!).
 
 # Possible next steps
 
