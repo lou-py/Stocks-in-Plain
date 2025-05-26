@@ -23,7 +23,7 @@ Everything is local & free – no paid API keys.
 
 #3#
 
-What I learned
+# What I learned
 
 Reading price data into pandas and doing rolling calculations.
 Basic sentiment scoring with VADER.
@@ -33,7 +33,7 @@ Writing a clean README (you’re reading it!).
 
 #4# 
 
-Possible next steps
+# Possible next steps
 
 Switch to intraday (1‑min) prices for more action.
 Add more tickers + a selectbox.
