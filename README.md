@@ -15,7 +15,7 @@ Grab news – Google News RSS, keep the top 3 titles.
 Sentiment – average VADER compound score.
 LLM summary – feed the numbers + sentiment into google/flan‑t5-small ➜ 1 sentence.
 
-Everything is local & free – no paid API keys.
+Everything is local & free
 
 # What I learned
 
