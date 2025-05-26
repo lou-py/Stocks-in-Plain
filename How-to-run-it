@@ -1,0 +1,9 @@
+# 1) clone
+ git clone https://github.com/<your‑handle>/stocks‑in‑plain‑english.git
+ cd stocks‑in‑plain‑english
+
+# 2) install deps
+ pip install -r requirements.txt   # ~350 MB the first time (model + torch)
+
+# 3) launch
+ streamlit run stocks_in_plain_english.py
