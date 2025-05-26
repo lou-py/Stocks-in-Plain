@@ -1,0 +1,9 @@
+# How It works
+
+Download prices – yfinance pulls 1‑year daily closes.
+Calc basic stats – daily % move, YTD %, 30‑day vol.
+Grab news – Google News RSS, keep the top 3 titles.
+Sentiment – average VADER compound score.
+LLM summary – feed the numbers + sentiment into google/flan‑t5-small ➜ 1 sentence.
+
+# Everything is local & free – no paid API keys.
