@@ -1,15 +1,11 @@
 # Stocks-in-Plain
 My side project that mixes market data, sentiment analysis and a tiny open-source LLM. Built with Streamlit so anyone can poke around without installing heavy stuff.
 
-#1#
-
 I’m a first–year finance student learning Python. I wanted one mini‑project that touches three buzz‑words every internship posting mentions:
 Market data (Yahoo Finance)
 Sentiment / NLP (VADER)
 Generative AI (Transformers)
 Plus, I love semiconductors so I picked ASML, TSM, NVDA.
-
-#2#
 
 # How it works ?
 
@@ -21,8 +17,6 @@ LLM summary – feed the numbers + sentiment into google/flan‑t5-small ➜ 1 s
 
 Everything is local & free – no paid API keys.
 
-#3#
-
 # What I learned
 
 Reading price data into pandas and doing rolling calculations.
@@ -30,8 +24,6 @@ Basic sentiment scoring with VADER.
 Loading a tiny open‑source LLM and creating a prompt.
 Building a fast UI with Streamlit (columns, metrics, progress bar).
 Writing a clean README (you’re reading it!).
-
-#4# 
 
 # Possible next steps
 
