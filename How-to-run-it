@@ -3,7 +3,7 @@
  cd stocks‑in‑plain‑english
 
 # 2) install deps
- pip install -r requirements.txt   
+pip install streamlit yfinance feedparser vaderSentiment transformers torch sentencepiece
 
 # 3) launch
  streamlit run stocks_in_plain_english.py
