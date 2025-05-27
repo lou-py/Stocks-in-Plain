@@ -3,7 +3,7 @@
  cd stocks‑in‑plain‑english
 
 # 2) install deps
- pip install -r requirements.txt   # ~350 MB the first time (model + torch)
+ pip install -r requirements.txt   
 
 # 3) launch
  streamlit run stocks_in_plain_english.py
